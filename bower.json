@@ -1,0 +1,17 @@
+{
+  "name": "pixarolympics",
+  "description": "pixar olympics game testing js stuff",
+  "main": "index.js",
+  "authors": [
+    "Lucas <lucazzzv89@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/LucasVera/PixarOlympics",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
