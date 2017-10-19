@@ -1,0 +1,19 @@
+{
+  "name": "pixarolympics",
+  "version": "1.0.0",
+  "description": "pixar olympics game testing js stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasVera/PixarOlympics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasVera/PixarOlympics/issues"
+  },
+  "homepage": "https://github.com/LucasVera/PixarOlympics#readme"
+}
